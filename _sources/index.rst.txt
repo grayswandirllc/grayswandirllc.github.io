@@ -6,6 +6,21 @@
 1115 Verdale Dr. Spearfish
 --------------------------
 
+Home for rent: $2500/mo.
+
+Address: 1115 Verdale Dr.
+
+Bedrooms: 5
+
+Bathroom: 2
+
+Garage: 2 stall
+
+Pets: Dog negotiable
+
+Available: Negotiable
+
+
 .. image:: _static/outside1.jpeg
    :width: 30%
 
@@ -32,13 +47,3 @@
 
 .. image:: _static/garage1.jpeg
    :width: 30%
-
-Here is a bunch of text.
-
-Here is a bunch of text.
-
-Here is a bunch of text.
-
-
-
-more here.
