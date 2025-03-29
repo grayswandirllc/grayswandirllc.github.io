@@ -6,23 +6,34 @@
 1115 Verdale Dr. Spearfish
 --------------------------
 
-.. image:: _static/0781ad791fff79e7d80bf70b9f044505-uncropped_scaled_within_1344_1008.webp
+.. image:: _static/outside1.jpeg
    :width: 30%
 
-.. image:: _static/0ad3dc02c133a093168cb9fc18b9c689-uncropped_scaled_within_1344_1008.webp
+.. image:: _static/kitchen.jpeg
    :width: 30%
 
-.. image:: _static/37042c0d20ff6fd37a2c01e3ca2e0894-uncropped_scaled_within_1344_1008.webp
+.. image:: _static/living.jpeg
    :width: 30%
 
-.. image:: _static/427d8e4379ddaefe17bcd32f7e59a366-uncropped_scaled_within_1344_1008.webp
+.. image:: _static/bonus.jpeg
    :width: 30%
 
-.. image:: _static/45f8eaa304a952e2f7df3482e63448bf-uncropped_scaled_within_1344_1008.webp
+.. image:: _static/bonus_lookout.jpeg
    :width: 30%
 
-.. image:: _static/4fe05ec16583e3fe905e5967dc4d8147-uncropped_scaled_within_1344_1008.webp
+.. image:: _static/bedroom1.jpeg
    :width: 30%
+
+.. image:: _static/basement_bed.jpeg
+   :width: 30%
+
+.. image:: _static/basement_living.jpeg
+   :width: 30%
+
+.. image:: _static/garage1.jpeg
+   :width: 30%
+
+Here is a bunch of text.
 
 Here is a bunch of text.
 
